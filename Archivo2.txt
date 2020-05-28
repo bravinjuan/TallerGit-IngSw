@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 Este es un archivo de prueba
 
 Nicolas Zini
-=======
 
->>>>>>> dd3f5e81cad0cd65478c74c87a71b0ef97364f47
